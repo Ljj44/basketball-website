@@ -27,8 +27,6 @@ README: Your gateway to the project, featuring a detailed overview, this report,
 HTML Files: Each page resides here, including index.html for the homepage, about.html for your basketball story, photos.html showcasing your visual journey, videos.html highlighting your skills, blog.html sharing your basketball insights, and contact.html for establishing connections.
 CSS Folder: Housing all the styling magic, this folder contains files that define the website's visual appearance and responsiveness.
 Images: Your basketball journey comes alive with captivating photos stored in the img folder.
-JavaScript Files (Optional): If you've incorporated any interactive elements powered by JavaScript, they'll reside in the js folder.
-Clear Commits: Frequent commits with descriptive messages document the development process, providing transparency and facilitating future enhancements.
  
 Conclusion
 This project journey has been a rewarding experience, allowing me to explore my passion for basketball through the lens of web development. Witnessing the website evolve from its conceptual stage to a fully functional, responsive, and visually appealing platform fills me with a sense of accomplishment. Looking ahead, I'm excited to continuously add valuable content to the blog, engage with the basketball community, and further refine the website based on user feedback.
