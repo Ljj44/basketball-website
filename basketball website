@@ -109,3 +109,41 @@ footer {
  text-align: center;
  padding: 10px;
 }
+<!-- Same header and footer -->
+<main>
+ <h2>About My Basketball Hobby</h2>
+ 
+ <p>I started playing basketball when I was 7 years old...</p>
+ 
+ <h3>My Basketball Hero</h3>
+ 
+ <p>My favorite player is LeBron James...</p>
+ 
+</main> 
+<!-- Same header and footer -->
+<main>
+ <h2>My Basketball Photos</h2>
+ 
+ <img src="basketball1.jpg" alt="Dribbling on the court">
+ 
+ <img src="basketball2.jpg" alt="Taking a jumpshot">
+ 
+</main>
+<!-- Same header and footer -->
+<main>
+ <h2>Contact Me</h2>
+ 
+ <form>
+   <label for="name">Name:</label>
+   <input type="text" id="name" name="name">
+   
+   <label for="email">Email:</label>
+   <input type="email" id="email" name="email">
+   
+   <label for="message">Message:</label>
+   <textarea id="message" name="message"></textarea>
+   
+   <input type="submit" value="Send Message">
+ </form>
+ 
+</main>
